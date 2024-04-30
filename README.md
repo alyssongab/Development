@@ -4,7 +4,7 @@ Projetos do curso em vídeo feitos em HTML e CSS
 
 ## PROJETO CORDEL:
 
-[Link text] (https://alyssongab.github.io/HTML-CSS/cordel/index.html)
+[Link do projeto cordel](https://alyssongab.github.io/HTML-CSS/cordel/index.html)
 
 ## PREVIEW SITE ANDROID
 
