@@ -8,7 +8,7 @@ Projetos do curso em vídeo feitos em HTML e CSS
 
 ### Preview:
 
-![Preview](C:\Users\maxsh\OneDrive\Área de Trabalho\Preview-Cordel.png)
+![Preview](Preview-Cordel.png)
 
 ## SITE ANDROID:
 
@@ -16,4 +16,4 @@ Projetos do curso em vídeo feitos em HTML e CSS
 
 ### Preview:
 
-![Preview](C:\Users\maxsh\OneDrive\Área de Trabalho\Preview-Android.png)
+![Preview](Preview-Android.png)
