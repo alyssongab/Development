@@ -1,5 +1,5 @@
 # Development
- Projetos pessoais
+ Projetos do curso em vídeo feitos em HTML e CSS
 
 PREVIEW SITE ANDROID
 
