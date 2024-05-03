@@ -18,7 +18,7 @@ Projetos do curso em vídeo feitos em HTML e CSS
 
 ![Preview](Preview-Android.png)
 
-### PROJETO REDES SOCIAIS
+### PROJETO REDES SOCIAIS (INCOMPLETO)
 
 [Link do projeto Redes Sociais](https://alyssongab.github.io/HTML-CSS/redes-sociais/index.html)
 
