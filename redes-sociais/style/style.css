@@ -34,6 +34,8 @@ main {
     background: url(../imagens/frame-iphone.png) no-repeat;
 }
 
+#phone
+
 /* Ajustando a imagem home dentro da imagem celular */
 
 iframe#tela {
